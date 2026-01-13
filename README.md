@@ -1,16 +1,21 @@
-# To-Do List Application (CLI)
+# 🐍 CODSOFT Python Internship Projects
 
-**Task 1 for CODSOFT Python Internship**
+This repository contains the three tasks completed for the Python Programming Internship at **CodSoft**.
 
-This is a Command-Line Interface (CLI) based To-Do List application built using Python. It uses the `rich` library to provide a clean and colorful user interface in the terminal.
+## 📂 Repository Structure
 
-## Features
-- Add tasks with categories
-- View tasks in a formatted table
-- Mark tasks as 'Done'
-- Delete tasks
-- Data persistence (saves to JSON)
+| File | Task | Description |
+| :--- | :--- | :--- |
+| `todo.py` | **Task 1** | A CLI-based To-Do List app with data persistence. |
+| `calculator.py` | **Task 2** | A functional calculator with basic arithmetic operations. |
+| `password_generator.py` | **Task 3** | A random password generator with customizable length. |
 
-## How to Run
-1. Install dependencies: `pip install -r requirements.txt`
-2. Run the app: `python todo.py list`
+---
+
+## 🚀 How to Run the Projects
+
+### Prerequisites
+1. Ensure you have Python installed.
+2. Install the required dependencies (only for Task 1):
+   ```bash
+   pip install -r requirements.txt
